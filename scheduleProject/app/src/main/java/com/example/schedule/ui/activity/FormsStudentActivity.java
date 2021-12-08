@@ -8,11 +8,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.Toast;
 
 import com.example.schedule.R;
-import com.example.schedule.StudentDAO2;
-import com.example.schedule.model.Student;
 import com.example.schedule.ui.dao.StudentDAO;
 
 public class FormsStudentActivity extends AppCompatActivity {

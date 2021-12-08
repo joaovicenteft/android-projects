@@ -1,6 +1,5 @@
 package com.example.schedule.ui.dao;
 
-import com.example.schedule.model.Student;
 import com.example.schedule.ui.activity.StudentClass;
 
 import java.util.ArrayList;
